@@ -9,5 +9,5 @@ My stack is **HTML / CSS / JS / REACT / Tilda** and I'm currently learning Types
 
 ⚡ Fun fact:
 
-![img](https://ibb.co/Zfy45jQ)
+![funfact](https://i.ibb.co/rQn8YjB/7777.jpg)
 
