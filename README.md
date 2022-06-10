@@ -1,8 +1,7 @@
 ### ✨ Hi there! My name is Liza ✨ 
 #### I'am an ex-Yandex Practicum student working on my own projects right now 
 
-My stack:  HTML / CSS / JS / REACT / Tilda 
-Currently learning Typescript and Vue.js 
+My stack:  HTML / CSS / JS / REACT / Tilda and I'm currently learning Typescript and Vue.js  
 
 ⚡ Fun fact:
 
