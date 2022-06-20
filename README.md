@@ -6,6 +6,8 @@ I'm a junior frontend developer working on my own projects right now. Always ope
 
 My stack is **HTML / CSS / JS / REACT / Tilda** and I'm currently learning Typescript and Vue.js ( bcz who doesn't, right? 😀)
 
+Addicted to books, mycology and any types of outdoor activities.
+
 
 ⚡ Fun fact:
 
